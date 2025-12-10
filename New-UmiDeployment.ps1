@@ -114,7 +114,7 @@ if (-not $Subscription) {
 }
 
 # Define standard resource names for consistent deployment
-$umiName = 'MSSP-Sentinel-Ingestion-UMI'  # User Managed Identity name
+$umiName = 'RSOC-Sentinel-Ingestion-UMI'  # User Managed Identity name
 $rg = "$($CustomerPrefix.ToUpper())-Sentinel-Prod-rg"  # Resource group name with customer prefix
 
 # Handle authentication based on environment
@@ -353,7 +353,7 @@ foreach ($role in $roleAssignments) {
 # APPLICATION REGISTRATION AND SERVICE PRINCIPAL CREATION
 
 # Create the service principal/app registration using Microsoft Graph
-$appName = 'MSSP-Sentinel-Ingestion'
+$appName = 'RSOC-Sentinel-Ingestion'
 
 # Check if application registration exists to avoid conflicts
 # This allows the script to be re-run safely without creating duplicates
@@ -770,3 +770,4 @@ Write-Information "    UMI Object ID: $($umi.Id)" -InformationAction Continue
 Write-Information "  Application Registration: $appName" -InformationAction Continue
 Write-Information "    Application ID: $($application.AppId)" -InformationAction Continue
 Write-Information "    Service Principal Object ID: $($adsp.Id)" -InformationAction Continue
+
