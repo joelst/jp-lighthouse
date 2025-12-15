@@ -2,7 +2,7 @@ Links to deploy custom template for lighthouse authorizations:
 
 ## 1. Complete Azure Lighthouse authorizations using this ARM template.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmlakus%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizations.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fmlakus%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizationsui.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" alt="Deploy mlakus/jp-lighthouse"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizations.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizationsui.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" alt="Deploy joelst/jp-lighthouse"/></a>
 
 ## 2. Download and run UMI creation PowerShell script in Azure Cloud Shell
 
@@ -33,7 +33,7 @@ If you would like the standard connectors to be connected, the customer must be 
 
 ### SUPER BASIC Sentinel
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjpanderson91%2Flighthouse%2Frefs%2Fheads%2Fmain%2Fdeploysentinel.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Fdeploysentinel.json)
 
 
 ### Customized Sentinel-All-In-One v2
