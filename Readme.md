@@ -2,7 +2,7 @@ Links to deploy custom template for lighthouse authorizations:
 
 ## 1. Complete Azure Lighthouse authorizations using this ARM template.
 
-  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizations.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fjpanderson91%2Flighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizationsui.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/>
+  <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizations.json/createUIDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fjoelst%2Fjp-lighthouse%2Frefs%2Fheads%2Fmain%2Flighthouseauthorizationsui.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/>
 
 ## 2. Download and run UMI creation PowerShell script in Azure Cloud Shell
 
